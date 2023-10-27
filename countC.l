@@ -1,4 +1,3 @@
-//lex program to count number of C statements, identifiers,assignement and relational operators, keywords
 %{
 int id = 0,key=0,ass=0,rel=0,integer=0,statement=0;
 %}
